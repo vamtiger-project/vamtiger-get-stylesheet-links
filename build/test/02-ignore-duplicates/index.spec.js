@@ -11,7 +11,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const chai_1 = require("chai");
 const __1 = require("../..");
 const mock_data_1 = require("./mock-data");
-describe("vamtiger-regex-html-body-inner-html: should ignore", function () {
+describe("vamtiger-get-stylesheet-links: should ignore", function () {
     it("duplicates", function () {
         return __awaiter(this, void 0, void 0, function* () {
             const expected = [
