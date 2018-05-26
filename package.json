@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-get-stylesheet-links",
-    "version": "0.0.2-0",
+    "version": "0.0.2",
     "description": "Returns a list of linked stylesheets for defined HTML document text.",
     "main": "build",
     "scripts": {
