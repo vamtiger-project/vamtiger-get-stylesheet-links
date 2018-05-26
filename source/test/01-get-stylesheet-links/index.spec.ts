@@ -3,7 +3,7 @@ import * as XRegExp from 'xregexp';
 import getStylesheetLinks from '../..';
 import html from './mock-data';
 
-describe("vamtiger-regex-html-body-inner-html: should get", function () {
+describe("vamtiger-get-stylesheet-links: should get", function () {
     it("stylesheet", async function () {
         const expected = [
             '<link href="some/stylesheet/link/index.css" rel="stylesheet">'
