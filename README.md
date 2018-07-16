@@ -1,4 +1,4 @@
-# VAMTIGER Bash
+# VAMTIGER Get Stylesheet links
 [VAMTIGER Get Stylesheet links](https://github.com/vamtiger-project/vamtiger-get-stylesheet-links) will return a list of linked stylesheets for defined HTML document text.
 
 ## Installation
